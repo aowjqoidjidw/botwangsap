@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
-     "namabot": "Amelia Botz",
-     "nomerbot": "6285859108597",
-     "gender" : "Female",
-     "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
+     "namalu" : "Alvaro",
+     "nomerlu": "6285159088173",
+     "namabot": "Alvaro Botz",
+     "nomerbot": "62881010126723",
+     "gender" : "Waria",
+     "copyright" : "Alvaro kebelet satir",
+     "namaDocument": "Alvaro Botz",
      "joinGcExtream": true,
 
      "publik": true,
@@ -29,7 +29,7 @@
      
      "Jika ada yang telpon, bot bakal kirim bug  ke penelpon jika aktikan fitur sendbug": "ke true",
        "Anticall": true,
-      "sendbug": true,
+      "sendbug": false,
      
      "SetFunction": {
      "Daftar_Font": "block, slick, tiny, grid, pallet, shade, chrome, simple, simpleBlock, 3d, simple3d, huge, console",        
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "085156137901",
-     "Gopay" : "085156137901",
-     "Dana" : "085156137901",
-     "Ovo" : "085156137901"
+     "Shopee" : "minta ke owner",
+     "Gopay" : "085159088173",
+     "Dana" : "minta ke owner",
+     "Ovo" : "minta ke owner"
      },
      
      "setPrefix": {
@@ -59,8 +59,8 @@
      },
                                                                                                                                                                                                                                    
      "setWelcome": {
-     "autoWelcome": false,
-     "welcomeType": "type3",
+     "autoWelcome": true,
+     "welcomeType": "type2",
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
      
